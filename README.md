@@ -13,7 +13,7 @@ Atualmente, não estou trabalhando em nenhum projeto, mas estou sempre buscando 
 ## 📫 Como me encontrar
 📧 Email: [gabrielcirqueiradasilveira@gmail.com](mailto:gabrielcirqueiradasilveira@gmail.com)
 
-YouTube: [![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](http://www.youtube.com/@gabrielcirqueira-l3o)
+YouTube:(http://www.youtube.com/@gabrielcirqueira-l3o)
 
 
 

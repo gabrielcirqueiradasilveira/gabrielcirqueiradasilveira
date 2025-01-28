@@ -12,6 +12,7 @@ Atualmente, não estou trabalhando em nenhum projeto, mas estou sempre buscando 
 
 ## 📫 Como me encontrar
 📧 Email: [gabrielcirqueiradasilveira@gmail.com](mailto:gabrielcirqueiradasilveira@gmail.com)
+
 YouTube: [![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](http://www.youtube.com/@gabrielcirqueira-l3o)
 
 
@@ -26,7 +27,6 @@ YouTube: [![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcirqueiradasilveira&layout=compact&theme=radical)](https://github.com/gabrielcirqueiradasilveira/github-readme-stats)
 
-![Banner](https://yt3.googleusercontent.com/eVM8HOCxEF8uUbDzSBHduLKiWttSmLzV56j_In3nWQ-mpGU6BGugz9XeUPQM7xqGJcuiXgELBxk=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 ## 🎯 Meus Objetivos
 
